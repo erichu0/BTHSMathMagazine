@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BTHSMathMagazine/static/css/main.c049f0ec.chunk.css",
+    "main.js": "/BTHSMathMagazine/static/js/main.e3f8f8ae.chunk.js",
+    "main.js.map": "/BTHSMathMagazine/static/js/main.e3f8f8ae.chunk.js.map",
+    "runtime-main.js": "/BTHSMathMagazine/static/js/runtime-main.e9edf891.js",
+    "runtime-main.js.map": "/BTHSMathMagazine/static/js/runtime-main.e9edf891.js.map",
+    "static/js/2.0f86a241.chunk.js": "/BTHSMathMagazine/static/js/2.0f86a241.chunk.js",
+    "static/js/2.0f86a241.chunk.js.map": "/BTHSMathMagazine/static/js/2.0f86a241.chunk.js.map",
+    "static/js/3.2368a879.chunk.js": "/BTHSMathMagazine/static/js/3.2368a879.chunk.js",
+    "static/js/3.2368a879.chunk.js.map": "/BTHSMathMagazine/static/js/3.2368a879.chunk.js.map",
+    "index.html": "/BTHSMathMagazine/index.html",
+    "static/css/main.c049f0ec.chunk.css.map": "/BTHSMathMagazine/static/css/main.c049f0ec.chunk.css.map",
+    "static/js/2.0f86a241.chunk.js.LICENSE.txt": "/BTHSMathMagazine/static/js/2.0f86a241.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9edf891.js",
+    "static/js/2.0f86a241.chunk.js",
+    "static/css/main.c049f0ec.chunk.css",
+    "static/js/main.e3f8f8ae.chunk.js"
+  ]
+}
