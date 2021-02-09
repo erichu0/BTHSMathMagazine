@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BTHSMathMagazine/static/css/main.c049f0ec.chunk.css",
-    "main.js": "/BTHSMathMagazine/static/js/main.e3f8f8ae.chunk.js",
-    "main.js.map": "/BTHSMathMagazine/static/js/main.e3f8f8ae.chunk.js.map",
+    "main.js": "/BTHSMathMagazine/static/js/main.c92ebfa1.chunk.js",
+    "main.js.map": "/BTHSMathMagazine/static/js/main.c92ebfa1.chunk.js.map",
     "runtime-main.js": "/BTHSMathMagazine/static/js/runtime-main.e9edf891.js",
     "runtime-main.js.map": "/BTHSMathMagazine/static/js/runtime-main.e9edf891.js.map",
     "static/js/2.0f86a241.chunk.js": "/BTHSMathMagazine/static/js/2.0f86a241.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e9edf891.js",
     "static/js/2.0f86a241.chunk.js",
     "static/css/main.c049f0ec.chunk.css",
-    "static/js/main.e3f8f8ae.chunk.js"
+    "static/js/main.c92ebfa1.chunk.js"
   ]
 }
